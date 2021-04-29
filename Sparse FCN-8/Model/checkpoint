@@ -1,0 +1,2 @@
+model_checkpoint_path: "FCN_16Helmand_newAreas_IRMAD.ckpt"
+all_model_checkpoint_paths: "FCN_16Helmand_newAreas_IRMAD.ckpt"
